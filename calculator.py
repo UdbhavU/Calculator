@@ -4,6 +4,7 @@ stack = []
 
 
 root = Tk()
+root.title("Calculator")
 root.config(bg = 'gray', relief = FLAT)
 root.geometry("450x610")
 root.resizable(0,0)
